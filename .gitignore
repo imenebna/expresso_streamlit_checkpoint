@@ -4,3 +4,4 @@
 .venv/
 .venv12/
 __pycache__/
+.idea/

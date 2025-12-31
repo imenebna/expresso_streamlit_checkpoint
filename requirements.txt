@@ -1,4 +1,4 @@
-The file app.py contains the streamlit part of PyCharm.
+The file app.py contains the streamlit part of PyCharm. I chose to do a better UX interface with drop down menu for key points.
 The file .ipynb is the colab part of pre-processing , etc..
 streamlit==1.52.2
 pandas==2.3.3

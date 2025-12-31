@@ -1,11 +1,5 @@
-.venv/
-.venv12/
-__pycache__/
-*.pyc
-.idea/
-.streamlit/
-.env
-
+The file app.py contains the streamlit part of PyCharm.
+The file .ipynb is the colab part of pre-processing , etc..
 streamlit==1.52.2
 pandas==2.3.3
 scikit-learn==1.6.1
